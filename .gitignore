@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large geospatial data (keep scripts and small outputs only)
+*.tif
+*.tiff
+*.img
+*.gdb/
+*.mxd
+*.aprx
+*.zip
