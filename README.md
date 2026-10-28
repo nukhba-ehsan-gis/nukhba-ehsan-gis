@@ -20,7 +20,7 @@ I am seeking **graduate research opportunities** in **urbanization, environmenta
 
 ## Research Focus
 
-Urban expansion and coalescence, remote sensing, climate intelligence, drought and flood analysis, land-susceptibility assessment, environmental monitoring, spatial accessibility, and disaster-risk reduction
+Urban expansion and coalescence, remote sensing, climate intelligence, drought and flood analysis, environmental monitoring, spatial accessibility, and disaster-risk reduction
 
 ## Final Year Research Project (Ongoing)
 
