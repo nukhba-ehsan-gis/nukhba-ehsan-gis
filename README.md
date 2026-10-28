@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nukhba Ehsan
+# Nukhba Ehsan
 
 ### GIS & Remote Sensing Researcher · BS Geography (Final Year)
 
